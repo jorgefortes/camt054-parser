@@ -1,0 +1,12 @@
+# Mark all files in the 'docs' directory as documentation
+docs/* linguist-documentation=true
+
+# Mark all files in the 'scripts' directory as Shell
+scripts/* linguist-language=Shell
+
+# Force the detection of Python for specific files
+*.py linguist-language=Python
+
+# Exclude certain files from the language statistics
+*.md linguist-documentation
+*.json linguist-vendored
