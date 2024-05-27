@@ -1,0 +1,8 @@
+/a:Document/a:BkToCstmrDbtCdtNtfctn/a:Ntfctn/a:Ntry/a:BookgDt/a:Dt
+/a:Document/a:BkToCstmrDbtCdtNtfctn/a:Ntfctn/a:Ntry/a:ValDt/a:Dt
+/a:Document/a:BkToCstmrDbtCdtNtfctn/a:Ntfctn/a:Ntry/a:NtryDtls/a:TxDtls[4]/a:Amt
+/a:Document/a:BkToCstmrDbtCdtNtfctn/a:Ntfctn/a:Ntry/a:NtryDtls/a:TxDtls[4]/a:RltdPties/a:Dbtr/a:Nm
+/a:Document/a:BkToCstmrDbtCdtNtfctn/a:Ntfctn/a:Ntry/a:NtryDtls/a:TxDtls[4]/a:RltdPties/a:Dbtr/a:PstlAdr/a:AdrLine[1]
+/a:Document/a:BkToCstmrDbtCdtNtfctn/a:Ntfctn/a:Ntry/a:NtryDtls/a:TxDtls[4]/a:RltdPties/a:Dbtr/a:PstlAdr/a:AdrLine[2]
+/a:Document/a:BkToCstmrDbtCdtNtfctn/a:Ntfctn/a:Ntry/a:NtryDtls/a:TxDtls[4]/a:RltdPties/a:DbtrAcct/a:Id/a:IBAN
+/a:Document/a:BkToCstmrDbtCdtNtfctn/a:Ntfctn/a:Ntry/a:NtryDtls/a:TxDtls[4]/a:RmtInf/a:Strd/a:AddtlRmtInf[3]

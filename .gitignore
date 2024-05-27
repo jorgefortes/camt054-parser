@@ -1,0 +1,9 @@
+# Ignore Python compiled files
+__pycache__/
+*.py[cod]
+
+# Ignore data files
+/data/*.xml
+
+# Ignore environment files
+.env
